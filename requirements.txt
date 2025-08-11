@@ -1,0 +1,22 @@
+# requirements.txt
+streamlit
+pandas
+numpy
+openpyxl
+xlsxwriter
+
+# PDF parsing
+pdfplumber
+
+# OCR stack
+pdf2image
+pillow
+pytesseract
+
+# PDF export with Arabic support
+reportlab
+arabic-reshaper
+python-bidi
+
+# Optional fuzzy matching
+rapidfuzz
